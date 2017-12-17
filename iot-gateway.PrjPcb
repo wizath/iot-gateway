@@ -157,6 +157,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SFQHCSQU
 
+[Document8]
+DocumentPath=STMicroelectronics STM32 F4.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [SearchPath1]
 Path=C:\users\wizath\Moje Dokumenty\CernLib\*.*
 IncludeSubFolders=1
