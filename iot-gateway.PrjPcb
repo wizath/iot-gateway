@@ -192,7 +192,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [SearchPath1]
-Path=E:\Altium\AD17Files\Library\CernLib\*.*
+Path=C:\users\wizath\Moje Dokumenty\CernLib\*.*
 IncludeSubFolders=1
 
 [Configuration1]
