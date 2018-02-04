@@ -52,7 +52,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GUAOGQEM
+DocumentUniqueId=UPERALXQ
 
 [Document2]
 DocumentPath=SDRAM.SchDoc
@@ -86,7 +86,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=CELGGNSY
+DocumentUniqueId=FUWVHUTC
 
 [Document4]
 DocumentPath=PERIPH.SchDoc
@@ -188,7 +188,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DLEWLCNN
+DocumentUniqueId=NMYQHHTI
 
 [Document10]
 DocumentPath=SUPPLY.SchDoc
@@ -275,7 +275,28 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document15]
+DocumentPath=WAKEUP.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=7
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MUUKPADS
+
 [GeneratedDocument1]
+DocumentPath=Project Outputs for iot-gateway\Design Rule Check - iot-gateway.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=iot-gateway.PcbDoc.htm
 DItemRevisionGUID=
 
