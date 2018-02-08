@@ -188,7 +188,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NMYQHHTI
+DocumentUniqueId=BONKOHGL
 
 [Document10]
 DocumentPath=SUPPLY.SchDoc
@@ -292,6 +292,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MUUKPADS
 
+[Document16]
+DocumentPath=irf.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QORPHGNW
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for iot-gateway\Design Rule Check - iot-gateway.html
 DItemRevisionGUID=
@@ -310,6 +327,10 @@ IncludeSubFolders=1
 
 [SearchPath3]
 Path=..\..\..\..\Public\Documents\Altium\AD17\Library\CernLib\*.*
+IncludeSubFolders=1
+
+[SearchPath4]
+Path=..\..\..\..\Public\Documents\Altium\AD17\Library\PergLib\*.*
 IncludeSubFolders=1
 
 [Configuration1]
